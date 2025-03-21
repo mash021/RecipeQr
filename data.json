@@ -1,0 +1,32 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "name": "Carbonara Pasta",
+      "image": "https://images.unsplash.com/photo-1612874742237-6526221588e3?w=800&auto=format&fit=crop&q=60",
+      "ingredients": "Pasta\nEggs\nParmesan Cheese\nPancetta\nGarlic\nBlack Pepper",
+      "instructions": "1. Cook pasta according to package instructions\n2. Fry pancetta until crispy\n3. Mix eggs and cheese\n4. Combine all ingredients\n5. Add black pepper to taste"
+    },
+    {
+      "id": "2",
+      "name": "Caesar Salad",
+      "image": "https://images.unsplash.com/photo-1546793665-c74683f339c1?w=800&auto=format&fit=crop&q=60",
+      "ingredients": "Romaine Lettuce\nCroutons\nParmesan Cheese\nCaesar Dressing\nGrilled Chicken",
+      "instructions": "1. Chop lettuce\n2. Add croutons\n3. Sprinkle cheese\n4. Add dressing\n5. Top with chicken"
+    },
+    {
+      "id": "3",
+      "name": "Turkey Club Sandwich",
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=800&auto=format&fit=crop&q=60",
+      "ingredients": "Bread\nTurkey Breast\nBacon\nLettuce\nTomato\nMayo",
+      "instructions": "1. Toast bread\n2. Layer turkey\n3. Add bacon\n4. Add vegetables\n5. Spread mayo"
+    },
+    {
+      "id": "4",
+      "name": "Salami Pizza",
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=800&auto=format&fit=crop&q=60",
+      "ingredients": "Pizza Dough\nTomato Sauce\nMozzarella\nSalami\nBell Peppers\nOnions",
+      "instructions": "1. Roll out dough\n2. Add sauce\n3. Add cheese\n4. Add toppings\n5. Bake at 450°F"
+    }
+  ]
+} 
